@@ -1,0 +1,11 @@
+# Number of molecular types 
+    3
+# Number of molecules for each type in order of xyz file
+   38  19  19
+# Number of atoms for each molecule
+   15   5   1
+# Distance (rdb)  No of bins (nbin)
+   10              80
+# Box dimensions for NVT or average box diemntions for NPT
+  19.26  19.26  19.26
+
