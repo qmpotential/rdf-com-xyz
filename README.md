@@ -6,3 +6,5 @@ The center of mass coordinates are calculated automatically. The rdf.par file is
 to include a number of molecular types, a number of atoms for each molecule
 in order of xyz file, a distance withing the radial distributions should be estimated,
 a number of bins, and box dimensions.
+# compile
+  In order to compile the program: gfortran rdf_com.f
